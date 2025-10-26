@@ -33,7 +33,7 @@ class BlogManager {
                 id: 1,
                 title: "10 Hidden Gems in Europe You Must Visit",
                 excerpt: "Discover the most beautiful and lesser-known destinations across Europe that offer authentic experiences away from the crowds.",
-                image: "https://images.unsplash.com/photo-1502602898536-47ad22581b52?ixlib=rb-4.0.3&auto=format&fit=crop&w=500&q=80",
+                image: "https://littleyouknow.com/wp-content/uploads/2023/04/as-68-585x390.jpg",
                 category: "destinations",
                 date: "2024-12-10",
                 author: "Sarah Johnson",
